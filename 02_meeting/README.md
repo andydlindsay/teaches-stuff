@@ -1,9 +1,10 @@
 # Meeting 02
 
 ### Talking Points
+- [ ] What each test covers and how to prepare
 - [ ] Pseudocode
 - [ ] Whiteboarding
-- [ ] What each test covers and how to prepare
+- [ ] Do students need Vagrant? Do they eventually use their own environment?
 
 ### Weekly Exams
 * Mock Exam:
@@ -27,4 +28,4 @@
   * Easiest exam in the curriculum
 * W10 Exam (self-directed):
   * Ruby
-  * Basic class construction and methods (two player math game)
+  * Basic class construction and methods (two player math game from W9D1)
