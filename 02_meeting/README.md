@@ -1,10 +1,10 @@
 # Meeting 02
 
 ### Talking Points
-- [ ] What each test covers and how to prepare
-- [ ] Pseudocode
-- [ ] Whiteboarding
-- [ ] Do students need Vagrant? Do they eventually use their own environment?
+- [x] What each test covers and how to prepare
+- [x] Pseudocode
+- [x] Whiteboarding
+- [x] Do students need Vagrant? Do they eventually use their own environment?
 
 ### Weekly Exams
 * Mock Exam:

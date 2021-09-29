@@ -6,9 +6,9 @@
 * VS Code Live Share
 * merge conflict
 * markdown
-* JavaScript (ECMAScript)
+* JavaScript (ECMAScript) ESv6, ES2016
 * Node
-* HTML
+* HTML HyperNet
 * CSS
 * jQuery
 * server-side rendering
@@ -23,5 +23,5 @@
 * recursion
 * npm and packages
 * mocha/chai
-* JSON
+* JSON JASON
 * React
