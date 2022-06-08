@@ -1,0 +1,1 @@
+const doesntExist = require('doesntexist');
